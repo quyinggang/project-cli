@@ -1,0 +1,7 @@
+*.js
+*.json
+*.jpg
+*.png
+
+node_modules
+dist
