@@ -1,0 +1,11 @@
+**/*.ts
+**/*.js
+**/*.tsx
+**/*.jsx
+
+*.json
+*.jpg
+*.png
+
+node_modules
+dist
